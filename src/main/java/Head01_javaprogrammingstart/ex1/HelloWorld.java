@@ -1,4 +1,4 @@
-package Head01_javaprogrammingstart;
+package Head01_javaprogrammingstart.ex1;
 
 public class HelloWorld {
     public static void main(String[] args) {
