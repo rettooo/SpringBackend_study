@@ -1,4 +1,4 @@
-package Head02_OOPprogramming.practice1;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.practice1;
 
 public class Main {
         public static void main(String[] args) {

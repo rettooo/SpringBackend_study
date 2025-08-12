@@ -1,5 +1,4 @@
-package Head02_OOPprogramming.practice1;
-import java.util.Arrays;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.practice1;
 
 public class CoffeeMachine {
     //1. 필드 상태

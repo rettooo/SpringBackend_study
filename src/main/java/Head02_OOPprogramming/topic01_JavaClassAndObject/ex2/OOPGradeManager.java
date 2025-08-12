@@ -1,6 +1,4 @@
-package Head02_OOPprogramming.ex2;
-
-import org.w3c.dom.ls.LSOutput;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.ex2;
 
 class Order{
     String customer;

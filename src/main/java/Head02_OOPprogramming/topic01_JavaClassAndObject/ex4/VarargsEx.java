@@ -1,4 +1,4 @@
-package Head02_OOPprogramming.ex4;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.ex4;
 //가변인자 이슈
 public class VarargsEx {
     public static void main(String[] args) {

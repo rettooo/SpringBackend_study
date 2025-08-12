@@ -1,6 +1,4 @@
-package Head02_OOPprogramming.ex5;
-
-import java.util.Dictionary;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.ex5;
 
 public class Utility {
     //static 예시

@@ -1,6 +1,4 @@
-package Head02_OOPprogramming.ex1;
-
-import java.sql.SQLOutput;
+package Head02_OOPprogramming.topic01_JavaClassAndObject.ex1;
 
 public class ProcedureGradeManager {
     public static void main(String[] args) {
